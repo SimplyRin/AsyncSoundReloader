@@ -1,5 +1,5 @@
 # AsyncSoundReloader
-Minecraft を固まることなくサウンド設定をリロードできる Mod です。
+固めること無く Minecraft のサウンド設定をリロードできる Mod です。
 
 # Usage
 `P` キーを押す(設定で変更可能) または `/soundreload` を使用してください。
